@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/dohoon0122/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Search
 |  |
@@ -24,9 +25,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/dohoon0122/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Greedy
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/dohoon0122/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
