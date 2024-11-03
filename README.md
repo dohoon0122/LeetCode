@@ -44,6 +44,11 @@
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/dohoon0122/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dohoon0122/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/dohoon0122/LeetCode/tree/master/2580-circular-sentence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/dohoon0122/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
