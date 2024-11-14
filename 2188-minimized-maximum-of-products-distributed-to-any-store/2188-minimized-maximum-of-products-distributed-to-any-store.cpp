@@ -2,48 +2,51 @@ class Solution {
 public:
     int minimizedMaximum(int n, vector<int>& quantities) {
         int m = quantities.size();
-        int remain = n - m;
-        auto customCompareLambda = [](pair<int, int>& a, pair<int, int>& b){
-            return (long long)a.first*b.second < (long long)a.second*b.first;
+
+        // Define a custom comparator for the priority queue
+        // It sorts the pairs based on the ratio of their first to their second
+        // element
+        auto compareTypeStorePairs = [](pair<int, int>& a, pair<int, int>& b) {
+            return (long long)a.first * b.second <
+                   (long long)a.second * b.first;
         };
-        priority_queue<pair<int,int>, vector<pair<int, int>>, decltype(customCompareLambda)> store; 
 
-        for(int q: quantities){
-            store.push(make_pair(q, 1));
+        // Helper array - useful for the efficient initialization of the
+        // priority queue
+        vector<pair<int, int>> typeStorePairsArray;
+
+        // Push all product types to the array, after assigning one store to
+        // each of them
+        for (int i = 0; i < m; i++) {
+            typeStorePairsArray.push_back({quantities[i], 1});
         }
 
-        while(remain){
-            auto curr = store.top();
-            store.pop();
-            curr.second++;
+        // Initialize the priority queue
+        priority_queue<pair<int, int>, vector<pair<int, int>>,
+                       decltype(compareTypeStorePairs)>
+            typeStorePairs(typeStorePairsArray.begin(),
+                           typeStorePairsArray.begin() + m);
 
-            store.push(curr);
-            remain--;
+        // Iterate over the remaining n - m stores.
+        for (int i = 0; i < n - m; i++) {
+            // Pop first element
+            pair<int, int> pairWithMaxRatio = typeStorePairs.top();
+            int totalQuantityOfType = pairWithMaxRatio.first;
+            int storesAssignedToType = pairWithMaxRatio.second;
+            typeStorePairs.pop();
+
+            // Push same element after assigning one more store to its product
+            // type
+            typeStorePairs.push(
+                {totalQuantityOfType, storesAssignedToType + 1});
         }
 
+        // Pop first element
+        pair<int, int> pairWithMaxRatio = typeStorePairs.top();
+        int totalQuantityOfType = pairWithMaxRatio.first;
+        int storesAssignedToType = pairWithMaxRatio.second;
 
-        return ceil((double)store.top().first / store.top().second);
+        // Return the maximum minimum ratio
+        return ceil((double)totalQuantityOfType / storesAssignedToType);
     }
 };
-
-/*
-n 개 상점, m type product
-일단 m개 상점에 다 넣기
-
-15 10 10 0 0 0 0
-그 다음 distribute.
-max_heap 뽑아낸뒤, top 절반, 다시 넣고, remain 0 될때까지
-7 10 10 8 0 0 0
-7 5 10 8 5 0 0
-7 5 5 8 5 5 0
-7 5 5 4 5 5 4 -> 반례
-
--------
-=> top 절반이 아니라, 같은type의 max 갯수로 하면 되는듯?
-15 10 10  remain 4
-8 10 10 remain 3
-8 5 5 remain 1
-15, 1, 
-
-
-*/
