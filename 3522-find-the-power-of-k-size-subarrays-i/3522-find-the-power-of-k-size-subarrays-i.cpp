@@ -1,30 +1,29 @@
 class Solution {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) {
-        int n = nums.size();
-        vector<int> result;
+        int length = nums.size();
+        vector<int> result(length - k + 1, -1);
+        deque<int> indexDeque;
 
-        for (int i = 0; i < n - k + 1; ++i) {
-            vector<int> subarray(nums.begin() + i, nums.begin() + i + k);
-            vector<int> sortedSubarray = subarray;
-
-            // 정렬된 부분 배열 확인
-            sort(sortedSubarray.begin(), sortedSubarray.end());
-            bool isSorted = true, isConsecutive = true;
-
-            for (int j = 1; j < k; ++j) {
-                if (sortedSubarray[j] != sortedSubarray[j - 1] + 1) {
-                    isConsecutive = false;
-                }
-                if (subarray[j] < subarray[j - 1]) {
-                    isSorted = false;
-                }
+        for (int currentIndex = 0; currentIndex < length; currentIndex++) {
+            if (!indexDeque.empty() &&
+                indexDeque.front() < currentIndex - k + 1) {
+                indexDeque.pop_front();
             }
 
-            if (isSorted && isConsecutive) {
-                result.push_back(sortedSubarray.back()); // 최대값 추가
-            } else {
-                result.push_back(-1); // 조건 불만족
+            if (!indexDeque.empty() &&
+                nums[currentIndex] != nums[currentIndex - 1] + 1) {
+                indexDeque.clear();
+            }
+
+            indexDeque.push_back(currentIndex);
+
+            if (currentIndex >= k - 1) {
+                if (indexDeque.size() == k) {
+                    result[currentIndex - k + 1] = nums[indexDeque.back()];
+                } else {
+                    result[currentIndex - k + 1] = -1;
+                }
             }
         }
 
