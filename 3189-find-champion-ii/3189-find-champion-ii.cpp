@@ -2,12 +2,10 @@ class Solution {
 public:
     int findChampion(int n, vector<vector<int>>& edges) {
         vector<int> indegree(n, 0);
-        vector<vector<int>> graph(n);
 
         // 그래프 및 진입 차수 계산
         for (auto& edge : edges) {
             int u = edge[0], v = edge[1];
-            graph[u].push_back(v);
             indegree[v]++;
         }
 
