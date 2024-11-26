@@ -11,6 +11,9 @@ public:
         }
 
         // 이동 가능한 방향: 각 인덱스에서 이동 가능한 위치
+
+        // 0 1 2
+        // 3 4 5
         vector<vector<int>> neighbors = {
             {1, 3},        // index 0
             {0, 2, 4},     // index 1
