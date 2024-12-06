@@ -35,6 +35,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dohoon0122/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2554-minimum-total-distance-traveled](https://github.com/dohoon0122/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dohoon0122/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/dohoon0122/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -51,6 +52,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dohoon0122/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/dohoon0122/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/dohoon0122/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
@@ -65,6 +67,7 @@
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/dohoon0122/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/dohoon0122/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
@@ -83,6 +86,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/dohoon0122/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/dohoon0122/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/dohoon0122/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dohoon0122/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 ## String
@@ -115,6 +119,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dohoon0122/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dohoon0122/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |
