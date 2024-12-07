@@ -9,12 +9,10 @@ public:
             right = max(right, b);
         }
 
-        int ans;
         while(left<right){
             int mid = left + (right-left)/2;
             if(isPossible(nums, mid, bags)){
                 right = mid;
-                ans = mid;
             }
             else{
                 left = mid + 1;
