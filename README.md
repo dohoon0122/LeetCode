@@ -38,6 +38,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dohoon0122/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2554-minimum-total-distance-traveled](https://github.com/dohoon0122/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dohoon0122/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dohoon0122/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/dohoon0122/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -187,6 +188,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dohoon0122/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2164-two-best-non-overlapping-events](https://github.com/dohoon0122/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dohoon0122/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dohoon0122/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/dohoon0122/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Monotonic Queue
 |  |
@@ -197,6 +199,7 @@
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/dohoon0122/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/dohoon0122/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/dohoon0122/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Breadth-First Search
 |  |
 | ------- |
