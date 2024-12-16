@@ -12,16 +12,10 @@ public:
             pq.pop();
 
             curr*=multiplier;
+            nums[idx] = curr;
             pq.push({curr, idx});
         }
 
-        vector<int> ans(N);
-        while(!pq.empty()){
-            auto [curr, idx] = pq.top();
-            pq.pop();
-            ans[idx] = curr;
-        }
-
-        return ans;
+        return nums;
     }
 };
