@@ -10,7 +10,7 @@ public:
             return incA < incB;
         };
 
-        priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(comp)> pq;
+        priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(comp)> pq(comp);
 
         double ans = 0;
         for(const auto& cls: classes){
