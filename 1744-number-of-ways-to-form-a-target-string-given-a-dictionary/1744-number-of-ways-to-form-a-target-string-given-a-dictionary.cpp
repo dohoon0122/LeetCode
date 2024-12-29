@@ -6,7 +6,7 @@ public:
 
         vector<vector<int>> freq(N, vector<int>(26, 0));
 
-        for(auto word: words){
+        for(auto& word: words){
             for(int i=0; i<N; i++){
                 freq[i][word[i]-'a']++;
             }        
