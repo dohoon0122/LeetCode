@@ -135,6 +135,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dohoon0122/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dohoon0122/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dohoon0122/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dohoon0122/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohoon0122/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dohoon0122/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dohoon0122/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/dohoon0122/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dohoon0122/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/dohoon0122/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/dohoon0122/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -160,6 +162,7 @@
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dohoon0122/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dohoon0122/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dohoon0122/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dohoon0122/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -176,6 +179,7 @@
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/dohoon0122/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/dohoon0122/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/dohoon0122/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/dohoon0122/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/dohoon0122/LeetCode/tree/master/3427-special-array-ii) |
 ## Sliding Window
