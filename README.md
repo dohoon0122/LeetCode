@@ -46,6 +46,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/dohoon0122/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dohoon0122/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2465-shifting-letters-ii](https://github.com/dohoon0122/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2554-minimum-total-distance-traveled](https://github.com/dohoon0122/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/dohoon0122/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -139,6 +140,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/dohoon0122/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dohoon0122/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dohoon0122/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/dohoon0122/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/dohoon0122/LeetCode/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/dohoon0122/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dohoon0122/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -181,6 +183,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/dohoon0122/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dohoon0122/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/dohoon0122/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/dohoon0122/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/dohoon0122/LeetCode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
