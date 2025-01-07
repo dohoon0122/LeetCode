@@ -28,6 +28,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/dohoon0122/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/dohoon0122/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/dohoon0122/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/dohoon0122/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/dohoon0122/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/dohoon0122/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dohoon0122/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -135,6 +136,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/dohoon0122/LeetCode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/dohoon0122/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1524-string-matching-in-an-array](https://github.com/dohoon0122/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dohoon0122/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dohoon0122/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/dohoon0122/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -151,6 +153,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/dohoon0122/LeetCode/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/dohoon0122/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/dohoon0122/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Bit Manipulation
 |  |
