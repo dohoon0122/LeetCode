@@ -321,6 +321,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dohoon0122/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/dohoon0122/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/dohoon0122/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/dohoon0122/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/dohoon0122/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/dohoon0122/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dohoon0122/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/dohoon0122/LeetCode/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/dohoon0122/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/dohoon0122/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/dohoon0122/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -368,6 +370,7 @@
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/dohoon0122/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/dohoon0122/LeetCode/tree/master/0684-redundant-connection) |
+| [0820-find-eventual-safe-states](https://github.com/dohoon0122/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/dohoon0122/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/dohoon0122/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/dohoon0122/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -435,6 +438,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/dohoon0122/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/dohoon0122/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/dohoon0122/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
