@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohoon0122/LeetCode/tree/master/0002-add-two-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/dohoon0122/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/dohoon0122/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -58,6 +59,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/dohoon0122/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/dohoon0122/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2448-count-number-of-bad-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/dohoon0122/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dohoon0122/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2554-minimum-total-distance-traveled](https://github.com/dohoon0122/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
@@ -221,6 +223,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/dohoon0122/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/dohoon0122/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/dohoon0122/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/dohoon0122/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -237,6 +240,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/dohoon0122/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dohoon0122/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/dohoon0122/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/dohoon0122/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/dohoon0122/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
