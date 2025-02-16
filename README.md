@@ -44,6 +44,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dohoon0122/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/dohoon0122/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dohoon0122/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/dohoon0122/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/dohoon0122/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/dohoon0122/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -384,6 +385,7 @@
 | ------- |
 | [0494-target-sum](https://github.com/dohoon0122/LeetCode/tree/master/0494-target-sum) |
 | [0787-sliding-puzzle](https://github.com/dohoon0122/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/dohoon0122/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dohoon0122/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Memoization
 |  |
