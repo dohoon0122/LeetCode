@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int differenceOfSums(int n, int m) {
+        int ans = 0;
+        for(int i=1; i<n+1; i++){
+            if(i%m){
+                ans+=i;
+            }
+            else{
+                ans-=i;
+            }
+        }
+        return ans;
+    }
+};
