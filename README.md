@@ -511,6 +511,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dohoon0122/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dohoon0122/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/dohoon0122/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dohoon0122/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
@@ -577,6 +578,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/dohoon0122/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dohoon0122/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dohoon0122/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dohoon0122/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -600,6 +602,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/dohoon0122/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/dohoon0122/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/dohoon0122/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/dohoon0122/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
