@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dohoon0122/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/dohoon0122/LeetCode/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/dohoon0122/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/dohoon0122/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/dohoon0122/LeetCode/tree/master/0494-target-sum) |
@@ -191,6 +192,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/dohoon0122/LeetCode/tree/master/0135-candy) |
 | [0780-max-chunks-to-make-sorted](https://github.com/dohoon0122/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dohoon0122/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/dohoon0122/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
