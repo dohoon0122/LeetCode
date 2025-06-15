@@ -11,6 +11,7 @@
 | [0002-add-two-numbers](https://github.com/dohoon0122/LeetCode/tree/master/0002-add-two-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dohoon0122/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dohoon0122/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dohoon0122/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/dohoon0122/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dohoon0122/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/dohoon0122/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -199,6 +200,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/dohoon0122/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/dohoon0122/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1502-construct-k-palindrome-strings](https://github.com/dohoon0122/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/dohoon0122/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/dohoon0122/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/dohoon0122/LeetCode/tree/master/2089-maximum-matrix-sum) |
