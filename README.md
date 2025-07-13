@@ -195,6 +195,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/dohoon0122/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/dohoon0122/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dohoon0122/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/dohoon0122/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/dohoon0122/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/dohoon0122/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/dohoon0122/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -598,6 +599,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/dohoon0122/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/dohoon0122/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/dohoon0122/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Shortest Path
 |  |
 | ------- |
