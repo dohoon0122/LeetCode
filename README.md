@@ -106,6 +106,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/dohoon0122/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/dohoon0122/LeetCode/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dohoon0122/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dohoon0122/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2554-minimum-total-distance-traveled](https://github.com/dohoon0122/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/dohoon0122/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -217,6 +218,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/dohoon0122/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/dohoon0122/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dohoon0122/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dohoon0122/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/dohoon0122/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/dohoon0122/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -260,6 +262,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/dohoon0122/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/dohoon0122/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/dohoon0122/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dohoon0122/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2554-minimum-total-distance-traveled](https://github.com/dohoon0122/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dohoon0122/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2681-put-marbles-in-bags](https://github.com/dohoon0122/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -459,6 +462,7 @@
 | [1972-rotating-the-box](https://github.com/dohoon0122/LeetCode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/dohoon0122/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/dohoon0122/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/dohoon0122/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/dohoon0122/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/dohoon0122/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/dohoon0122/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
