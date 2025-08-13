@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohoon0122/LeetCode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/dohoon0122/LeetCode/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dohoon0122/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dohoon0122/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dohoon0122/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohoon0122/LeetCode/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/dohoon0122/LeetCode/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
