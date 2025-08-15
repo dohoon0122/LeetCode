@@ -11,6 +11,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohoon0122/LeetCode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/dohoon0122/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dohoon0122/LeetCode/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dohoon0122/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/dohoon0122/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/dohoon0122/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dohoon0122/LeetCode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/dohoon0122/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/dohoon0122/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/dohoon0122/LeetCode/tree/master/0342-power-of-four) |
 | [1940-maximum-xor-for-each-query](https://github.com/dohoon0122/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dohoon0122/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/dohoon0122/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
